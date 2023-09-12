@@ -9,7 +9,7 @@
 
 ## Petite modification
 
-2. ajouter les modifications à la zone de **transit**
+1. ajouter les modifications à la zone de **transit**
 
     ```bash
     git add .
@@ -18,7 +18,7 @@
     ```bash
     git commit -m "Ajout du mode d'emploi" 
     ```
-3. Pousser le comit sur le remote
+1. Pousser le comit sur le remote
     ```bash
     git push
     ```
